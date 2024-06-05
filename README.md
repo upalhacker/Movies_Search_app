@@ -1,6 +1,6 @@
 # Movies_Search_app
 
-#Explanation:
+# Explanation:
 HTML Structure: The HTML file sets up the structure of the app, including a search bar, a button, and a container for displaying the movie results.
 CSS Styling: The CSS file styles the elements, making the app visually appealing and user-friendly.
 JavaScript Functionality:
